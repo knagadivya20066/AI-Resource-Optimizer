@@ -18,31 +18,31 @@ The platform combines analytics, simulation, and visualization tools to transfor
 
 ## 🚀 Key Features
 
-### 📊 Resource Efficiency Dashboard
+## 📊 Resource Efficiency Dashboard
 
 Provides a comprehensive overview of the school's resource utilization through performance indicators and analytics.
 
-### 🏫 Classroom Utilization Analysis
+## 🏫 Classroom Utilization Analysis
 
 Tracks classroom allocation and usage patterns to identify underutilized spaces and improve scheduling strategies.
 
-### 👩‍🏫 Teacher Workload Monitoring
+## 👩‍🏫 Teacher Workload Monitoring
 
 Analyzes teacher workloads to ensure balanced distribution of responsibilities.
 
-### 🧪 Laboratory Usage Tracking
+## 🧪 Laboratory Usage Tracking
 
 Evaluates laboratory scheduling efficiency and identifies opportunities to improve resource access.
 
-### 📈 Interactive Data Visualization
+## 📈 Interactive Data Visualization
 
 Displays operational insights using charts, graphs, and performance indicators for easy interpretation.
 
-### ⚡ Dynamic Efficiency Score
+## ⚡ Dynamic Efficiency Score
 
 Calculates an overall **Resource Efficiency Score** based on resource usage parameters such as classroom availability, teacher workload, and lab utilization.
 
-### 🎛 Resource Simulation Controls
+## 🎛 Resource Simulation Controls
 
 Allows administrators to simulate different resource scenarios and observe how efficiency scores change dynamically.
 
@@ -52,7 +52,7 @@ Allows administrators to simulate different resource scenarios and observe how e
 
 The system uses a simplified AI-inspired analytical model to evaluate how efficiently school resources are utilized.
 
-### Step 1 — Data Input
+## Step 1 — Data Input
 
 The system considers important operational parameters such as:
 
@@ -64,7 +64,7 @@ The system considers important operational parameters such as:
 
 ---
 
-### Step 2 — Resource Utilization Analysis
+## Step 2 — Resource Utilization Analysis
 
 Each resource category is evaluated to determine its utilization efficiency.
 
@@ -76,19 +76,19 @@ Examples include:
 
 ---
 
-### Step 3 — Efficiency Score Calculation
+## Step 3 — Efficiency Score Calculation
 
 The platform combines multiple utilization metrics into a single **Resource Efficiency Score** representing the overall efficiency of school resource usage.
 
 ---
 
-### Step 4 — Visualization and Insights
+## Step 4 — Visualization and Insights
 
 The results are presented through interactive visualizations including charts, graphs, and performance indicators that help administrators understand operational performance.
 
 ---
 
-### Step 5 — Scenario Simulation
+## Step 5 — Scenario Simulation
 
 Users can adjust parameters such as classroom availability or teacher workload to simulate different planning strategies and observe efficiency changes instantly.
 
@@ -96,25 +96,25 @@ Users can adjust parameters such as classroom availability or teacher workload t
 
 # 🧩 System Modules
 
-### Dashboard
+## Dashboard
 
 Displays key performance indicators and the overall resource efficiency score.
 
-### Resource Management
+## Resource Management
 
 Analyzes classroom allocation, laboratory usage, and teacher workload distribution.
 
-### Visualization Engine
+## Visualization Engine
 
 Generates interactive charts and graphical representations of operational data.
 
-### Optimization Logic
+## Optimization Logic
 
 Implements analytical rules to evaluate resource usage and suggest improvements.
 
 ---
 
-# 💻 Technology Stack
+## 💻 Technology Stack
 
 Frontend
 • HTML
@@ -129,13 +129,13 @@ Development Platform
 
 ---
 
-# 🎯 Application Use Case
+## 🎯 Application Use Case
 
 The system assists school administrators in monitoring and improving the utilization of institutional resources. It supports better planning for classrooms, teachers, and laboratories through data-driven insights.
 
 ---
 
-# 🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 Possible improvements for future versions include:
 
@@ -147,18 +147,18 @@ Possible improvements for future versions include:
 
 ---
 
-# 🌍 Impact
+## 🌍 Impact
 
 Efficient resource management is essential for improving educational infrastructure utilization. By applying AI-inspired analysis and visualization tools, this project demonstrates how technology can support smarter administrative planning in schools.
 
 ---
 
-# 👩‍💻 Project Context
+## 👩‍💻 Project Context
 
 This project was developed as part of a hackathon initiative to explore innovative solutions for improving resource management in educational institutions.
 
 ---
 
-# 📜 License
+## 📜 License
 
 This project is intended for educational and demonstration purposes.
